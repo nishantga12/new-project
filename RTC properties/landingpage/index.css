@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+ul{
+    margin-left: 100px;
+    display: flex;
+    justify-content: end;
+
+}
+
+ul li{
+    display: inline-block;
+    margin-top: 25px;
+    padding-left: 20px;
+    
+    
+}
+ul li a{
+    text-decoration: none ;
+    color: black;
+}
+ul li a:hover{
+    color: orange;
+}
